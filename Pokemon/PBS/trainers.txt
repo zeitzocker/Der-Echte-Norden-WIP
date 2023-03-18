@@ -254,10 +254,22 @@ Pokemon = SUNFLORA,12
 LoseText = "Ja Moin... einfach verloren."
 Pokemon = WOBBUFFET,16
 #-------------------------------
+[TEAMCRICKET_M,Trunt]
+LoseText = "Uff..."
+Pokemon = CHARMELEON,22
+Pokemon = IVYSAUR,22
+    Shadow = yes
+#-------------------------------
 [TEAMCRICKET_M,Tim]
 LoseText = "SO FRECH !"
 Pokemon = DODUO,12
 Pokemon = CUBONE,12
+    Shadow = yes
+#-------------------------------
+[TEAMCRICKET_M,Joop]
+LoseText = "SO FRECH !"
+Pokemon = DODUO,22
+Pokemon = CUBONE,24
     Shadow = yes
 #-------------------------------
 [TEAMCRICKET_M,Jeffrey]
@@ -266,10 +278,29 @@ Pokemon = KOFFING,12
 Pokemon = GEODUDE,12
     Shadow = yes
 #-------------------------------
+[TEAMCRICKET_M,Jelly]
+LoseText = "Das hätte nicht passieren dürfen ."
+Pokemon = KOFFING,22
+Pokemon = GEODUDE,22
+    Shadow = yes#-------------------------------
+[TEAMCRICKET_M,Mert]
+LoseText = "Ja Moin... einfach verloren."
+Pokemon = WOBBUFFET,26
+#-------------------------------
 [TEAMCRICKET_F,Shanti]
 LoseText = "Fuck."
 Pokemon = GRANBULL,12
 Pokemon = GLIGAR,10
+#-------------------------------
+[TEAMCRICKET_F,Lusi]
+LoseText = "Fuck."
+Pokemon = GRANBULL,22
+Pokemon = GLIGAR,25
+#-------------------------------
+[TEAMCRICKET_F,Haley]
+LoseText = "Kacke."
+Pokemon = GRANBULL,22
+Pokemon = GLIGAR,25
 #-------------------------------
 [TEAMCRICKET_F,Caroline]
 LoseText = "Ouhh...."
@@ -287,6 +318,21 @@ Pokemon = MAGIKARP,14
     Item = POTION
     Moves = HYDROPUMP
 Pokemon = MUNCHLAX,14
+    Item = POTION
+#-------------------------------
+[CRICKET_BOSS2,Kev]
+LoseText = "Wie hast du mich genannt ?"
+Pokemon = ARCANINE,27
+    Name = Daniel
+    Gender = male
+    Item = POTION
+Pokemon = KOFFING,25
+    Item = POTION
+Pokemon = GYARADOS,27
+    Item = POTION
+Pokemon = MUNCHLAX,25
+    Item = POTION
+Pokemon = AXEW,25
     Item = POTION
 #-------------------------------
 [FETTSACK,Rainer]

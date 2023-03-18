@@ -78,7 +78,7 @@
 76,LUCKYEGG,Lucky Egg,Lucky Eggs,1,10000,"An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.",0,0,0,
 77,EPTEILER,Ep. Teiler,Ep. Teilers,1,3000,"Unfaires Kack-Item, dass Freude am leveln nimmt.Das Pokemon, dass dieses Item trägt erhält geteilte Ep. vom Kampf.",0,0,0,
 78,AMULETCOIN,Amulet Coin,Amulet Coins,1,10000,"An item to be held by a Pokémon. It doubles a battle's prize money if the holding Pokémon joins in.",0,0,0,
-79,SOOTHEBELL,Soothe Bell,Soothe Bells,1,4000,"An item to be held by a Pokémon. The comforting chime of this bell calms the holder, making it friendly.",0,0,0,
+79,SOOTHEBELL,Kuhglocke,Kuhglocken,1,4000,"Eine laute Glocke die den Pokemon Freude bereitet.",0,0,0,
 80,CLEANSETAG,Cleanse Tag,Cleanse Tags,1,5000,"An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.",0,0,0,
 81,CHOICEBAND,Choice Band,Choice Bands,1,4000,"An item to be held by a Pokémon. This headband ups Attack, but allows the use of only one move.",0,0,0,
 82,CHOICESPECS,Choice Specs,Choice Specs,1,4000,"An item to be held by a Pokémon. These curious glasses boost Sp. Atk but allows the use of only one move.",0,0,0,
