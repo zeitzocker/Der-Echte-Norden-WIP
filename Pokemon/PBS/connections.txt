@@ -50,7 +50,7 @@
 119,West,0,118,East,216
 # Natur-Pfad (120) - Naturschutzgebiet (119)
 120,West,0,119,East,36
-# Lökak Süd (139) - Lökak(WIP) (126)
-139,North,0,126,South,8
-# Pfad nach Lökak (125) - Lökak(WIP) (126)
+# Pfad nach Lökak (125) - Lökak (126)
 125,East,1,126,West,0
+# Next City (152) - Lökak Süd (139)
+152,North,0,139,South,0

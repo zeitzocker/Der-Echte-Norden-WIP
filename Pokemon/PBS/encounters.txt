@@ -556,7 +556,7 @@ Cave
     ARON,4,8
     MEW,3
 #-------------------------------
-090 # Layer 2 ( Way out )
+090 # Ebene 2 
 25,10,10
 Cave
     GEODUDE,5,11
