@@ -656,3 +656,4 @@
 641,OMNISTONE,Omnistone,Omnistones,1,6000,"Ein Stein mit unnatürlicher Aura.",1,0,7,
 642,CTHULHUSAUGE,Cthulhusauge,Cthulhusaugen,1,2000000,"Der Anblick des farbigen Kristalls lässt dich erschaudern .",0,0,0,
 643,WEEDBAGGY,Weedbaggy,Weedbaggy´s,1,200000,"Ein kleiner Beutel mit grünem Zauberkraut. Besser nicht den Pokemon geben.",0,0,0,
+644,PAPIER,Versiffte Papyrusrolle,Versiffte Papyrusrollen,1,1,"Eine leicht durchnässte Karte. Stinkt nach Rum.",2,0,0,
