@@ -646,6 +646,7 @@
 631,NSOLARIZER,N-Solarizer,N-Solarizers,8,0,"A machine to fuse Necrozma, which needs light, and Solgaleo.",5,0,6,
 632,NLUNARIZER,N-Lunarizer,N-Lunarizers,8,0,"A machine to fuse Necrozma, which needs light, and Lunala.",5,0,6,
 633,MEGARING,Mega Ring,Mega Rings,8,0,"This ring contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve.",0,0,6,
+#-------------------------------
 634,NIKEGUTSCHEIN,Nikegutschein,Nikegutschein,8,0,"Ein Gutschein für den NikeStore.",0,0,6,
 635,AIRJORDANS,AirJordans,AirJordans,8,0,"Geile Schuhe zum schnellen Laufen.",2,0,6,
 636,KAFFEE,Kaffee,Kaffee´s,2,20,"Ein brühend heißer Kaffee, macht müde Männer munter.",1,1,0,
@@ -656,4 +657,6 @@
 641,OMNISTONE,Omnistone,Omnistones,1,6000,"Ein Stein mit unnatürlicher Aura.",1,0,7,
 642,CTHULHUSAUGE,Cthulhusauge,Cthulhusaugen,1,2000000,"Der Anblick des farbigen Kristalls lässt dich erschaudern .",0,0,0,
 643,WEEDBAGGY,Weedbaggy,Weedbaggy´s,1,200000,"Ein kleiner Beutel mit grünem Zauberkraut. Besser nicht den Pokemon geben.",0,0,0,
-644,PAPIER,Versiffte Papyrusrolle,Versiffte Papyrusrollen,1,1,"Eine leicht durchnässte Karte. Stinkt nach Rum.",2,0,0,
+644,PAPIER,Wegführung,Wegführungen,1,1,"Eine leicht durchnässte Karte. Stinkt nach Rum.",2,0,0,
+645,PAPIER2,Wegführung2,Wegführungen2,1,1,"Eine weitere leicht durchnässte Karte.",2,0,0,
+646,TOWNMAP2,Town Map2,Town Maps2,8,0,"A very convenient map that can be viewed anytime. It even shows your present location.",2,0,6,
