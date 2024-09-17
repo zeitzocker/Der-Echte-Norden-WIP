@@ -172,7 +172,7 @@
 170,WATERGEM,Water Gem,Water Gems,1,200,"A gem with an essence of water. When held, it strengthens the power of a Water-type move only once.",0,0,10,
 171,ELECTRICGEM,Electric Gem,Electric Gems,1,200,"A gem with an essence of electricity. When held, it strengthens the power of an Electric-type move only once.",0,0,10,
 172,GRASSGEM,Grass Gem,Grass Gems,1,200,"A gem with an essence of nature. When held, it strengthens the power of a Grass-type move only once.",0,0,10,
-173,ICEGEM,Ice Gem,Ice Gems,1,200,"A gem with an essence of ice. When held, it strengthens the power of an Ice-type move only once.",0,0,10,
+173,ICEGEM,Ice Gem,Ice Gems,1,200,"Geiler Eiskristall. Macht Eisattacken abgefucked stark.",0,0,10,
 174,FIGHTINGGEM,Fighting Gem,Fighting Gems,1,200,"A gem with an essence of combat. When held, it strengthens the power of a Fighting-type move only once.",0,0,10,
 175,POISONGEM,Poison Gem,Poison Gems,1,200,"A gem with an essence of poison. When held, it strengthens the power of a Poison-type move only once.",0,0,10,
 176,GROUNDGEM,Ground Gem,Ground Gems,1,200,"A gem with an essence of land. When held, it strengthens the power of a Ground-type move only once.",0,0,10,
@@ -261,7 +261,7 @@
 258,MUSCLEWING,Muscle Wing,Muscle Wings,2,300,"An item for use on a Pokémon. It slightly increases the base Attack stat of a single Pokémon.",1,0,0,
 259,RESISTWING,Resist Wing,Resist Wings,2,300,"An item for use on a Pokémon. It slightly increases the base Defense stat of a single Pokémon.",1,0,0,
 260,GENIUSWING,Genius Wing,Genius Wings,2,300,"An item for use on a Pokémon. It slightly increases the base Sp. Atk stat of a single Pokémon.",1,0,0,
-261,CLEVERWING,Clever Wing,Clever Wings,2,300,"An item for use on a Pokémon. It slightly increases the base Sp. Def stat of a single Pokémon.",1,0,0,
+261,CLEVERWING,Blaue Feder,Blaue Federn,2,300,"Kann auf Pokémon genutzt werden. Schicke Feder, erhöht Sp. Def. Warum weiß keiner.",1,0,0,
 262,SWIFTWING,Swift Wing,Swift Wings,2,300,"An item for use on a Pokémon. It slightly increases the base Speed stat of a single Pokémon.",1,0,0,
 263,RARECANDY,Anabolika,Anabolika,2,10000,"Hormonpräparat, welches im Sport verwendet wird. Macht kleines Pokemon groß und stark.",1,0,0,
 #-------------------------------
