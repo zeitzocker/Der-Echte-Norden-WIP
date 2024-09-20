@@ -72,7 +72,7 @@
 70,DESTINYKNOT,Destiny Knot,Destiny Knots,1,4000,"A long, thin, bright-red string to be held by a Pokémon. If the holder becomes infatuated, so does the foe.",0,0,0,
 71,ROCKYHELMET,Rocky Helmet,Rocky Helmets,1,4000,"If the holder of this item takes damage, the attacker will also be damaged upon contact.",0,0,0,
 72,EJECTBUTTON,Rausschmeißer,Rausschmeißers,1,4000,"Lass es von einem Pokemon tragen und schau was passiert.",0,0,0,
-73,REDCARD,Red Card,Red Cards,1,4000,"A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle.",0,0,0,
+73,REDCARD,Rote Karte,Rote Karten,1,4000,"Rote Karte, jeder weiß was das heißt, dieser Spieler darf vorzeitig duschen gehen. Kann von Pkm getragen werden.",0,0,0,
 74,SHEDSHELL,Shed Shell,Shed Shells,1,4000,"An item to be held by a Pokémon. This discarded carapace lets the holder switch out of battle without fail.",0,0,0,
 75,SMOKEBALL,Smoke Ball,Smoke Balls,1,4000,"An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.",0,0,0,
 76,LUCKYEGG,Lucky Egg,Lucky Eggs,1,10000,"An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.",0,0,0,
@@ -386,7 +386,7 @@
 381,TM94,TM94,TM94s,4,30000,"The user attacks with a punch that can shatter a rock. It may also lower the target's Defense stat.",3,0,0,ROCKSMASH
 382,TM95,TM95,TM95s,4,10000,"The user yells as if it is ranting about something, making the target's Sp. Atk stat decrease.",3,0,0,SNARL
 383,HM01,HM01,HM01s,4,0,"Fieser Schnitzer . Kann auch benutzt werden um kleine Bäume weg zu Yeeten.",4,0,0,CUT
-384,HM02,HM02,HM02s,4,0,"The user soars, then strikes on the second turn. It can also be used to fly to any familiar town.",4,0,0,FLY
+384,HM02,RedBull,RedBulls,4,0,"RedBull... wait... verleiht ja wirklich Flügel!",4,0,0,FLY
 385,HM03,HM03,HM03s,4,0,"It swamps the area around the user with a giant wave. It can also be used for crossing water.",4,0,0,SURF
 386,HM04,HM04,HM04s,4,0,"Legenden besagen der Schubsspasti hat diese Apparatur entwickelt.",4,0,0,STRENGTH
 387,HM05,HM05,HM05s,4,0,"The user charges the target at an awesome speed. It can also be used to climb a waterfall.",4,0,0,WATERFALL
