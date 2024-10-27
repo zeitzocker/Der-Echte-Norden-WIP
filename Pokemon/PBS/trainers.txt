@@ -322,7 +322,7 @@ Pokemon = MUNCHLAX,14
 #-------------------------------
 [CRICKET_BOSS2,Kev]
 LoseText = "Wie hast du mich genannt ?"
-Pokemon = ARCANINE,27
+Pokemon = ARCANINE,30
     Name = Daniel
     Gender = male
     Item = POTION
