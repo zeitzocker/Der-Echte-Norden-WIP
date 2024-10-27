@@ -72,7 +72,7 @@
 70,DESTINYKNOT,Destiny Knot,Destiny Knots,1,4000,"A long, thin, bright-red string to be held by a Pokémon. If the holder becomes infatuated, so does the foe.",0,0,0,
 71,ROCKYHELMET,Rocky Helmet,Rocky Helmets,1,4000,"If the holder of this item takes damage, the attacker will also be damaged upon contact.",0,0,0,
 72,EJECTBUTTON,Rausschmeißer,Rausschmeißers,1,4000,"Lass es von einem Pokemon tragen und schau was passiert.",0,0,0,
-73,REDCARD,Red Card,Red Cards,1,4000,"A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle.",0,0,0,
+73,REDCARD,Rote Karte,Rote Karten,1,4000,"Rote Karte, jeder weiß was das heißt, dieser Spieler darf vorzeitig duschen gehen. Kann von Pkm getragen werden.",0,0,0,
 74,SHEDSHELL,Shed Shell,Shed Shells,1,4000,"An item to be held by a Pokémon. This discarded carapace lets the holder switch out of battle without fail.",0,0,0,
 75,SMOKEBALL,Smoke Ball,Smoke Balls,1,4000,"An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.",0,0,0,
 76,LUCKYEGG,Lucky Egg,Lucky Eggs,1,10000,"An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.",0,0,0,
@@ -172,7 +172,7 @@
 170,WATERGEM,Water Gem,Water Gems,1,200,"A gem with an essence of water. When held, it strengthens the power of a Water-type move only once.",0,0,10,
 171,ELECTRICGEM,Electric Gem,Electric Gems,1,200,"A gem with an essence of electricity. When held, it strengthens the power of an Electric-type move only once.",0,0,10,
 172,GRASSGEM,Grass Gem,Grass Gems,1,200,"A gem with an essence of nature. When held, it strengthens the power of a Grass-type move only once.",0,0,10,
-173,ICEGEM,Ice Gem,Ice Gems,1,200,"A gem with an essence of ice. When held, it strengthens the power of an Ice-type move only once.",0,0,10,
+173,ICEGEM,Ice Gem,Ice Gems,1,200,"Geiler Eiskristall. Macht Eisattacken abgefucked stark.",0,0,10,
 174,FIGHTINGGEM,Fighting Gem,Fighting Gems,1,200,"A gem with an essence of combat. When held, it strengthens the power of a Fighting-type move only once.",0,0,10,
 175,POISONGEM,Poison Gem,Poison Gems,1,200,"A gem with an essence of poison. When held, it strengthens the power of a Poison-type move only once.",0,0,10,
 176,GROUNDGEM,Ground Gem,Ground Gems,1,200,"A gem with an essence of land. When held, it strengthens the power of a Ground-type move only once.",0,0,10,
@@ -261,7 +261,7 @@
 258,MUSCLEWING,Muscle Wing,Muscle Wings,2,300,"An item for use on a Pokémon. It slightly increases the base Attack stat of a single Pokémon.",1,0,0,
 259,RESISTWING,Resist Wing,Resist Wings,2,300,"An item for use on a Pokémon. It slightly increases the base Defense stat of a single Pokémon.",1,0,0,
 260,GENIUSWING,Genius Wing,Genius Wings,2,300,"An item for use on a Pokémon. It slightly increases the base Sp. Atk stat of a single Pokémon.",1,0,0,
-261,CLEVERWING,Clever Wing,Clever Wings,2,300,"An item for use on a Pokémon. It slightly increases the base Sp. Def stat of a single Pokémon.",1,0,0,
+261,CLEVERWING,Blaue Feder,Blaue Federn,2,300,"Kann auf Pokémon genutzt werden. Schicke Feder, erhöht Sp. Def. Warum weiß keiner.",1,0,0,
 262,SWIFTWING,Swift Wing,Swift Wings,2,300,"An item for use on a Pokémon. It slightly increases the base Speed stat of a single Pokémon.",1,0,0,
 263,RARECANDY,Anabolika,Anabolika,2,10000,"Hormonpräparat, welches im Sport verwendet wird. Macht kleines Pokemon groß und stark.",1,0,0,
 #-------------------------------
@@ -386,7 +386,7 @@
 381,TM94,TM94,TM94s,4,30000,"The user attacks with a punch that can shatter a rock. It may also lower the target's Defense stat.",3,0,0,ROCKSMASH
 382,TM95,TM95,TM95s,4,10000,"The user yells as if it is ranting about something, making the target's Sp. Atk stat decrease.",3,0,0,SNARL
 383,HM01,HM01,HM01s,4,0,"Fieser Schnitzer . Kann auch benutzt werden um kleine Bäume weg zu Yeeten.",4,0,0,CUT
-384,HM02,HM02,HM02s,4,0,"The user soars, then strikes on the second turn. It can also be used to fly to any familiar town.",4,0,0,FLY
+384,HM02,RedBull,RedBulls,4,0,"RedBull... wait... verleiht ja wirklich Flügel!",4,0,0,FLY
 385,HM03,HM03,HM03s,4,0,"It swamps the area around the user with a giant wave. It can also be used for crossing water.",4,0,0,SURF
 386,HM04,HM04,HM04s,4,0,"Legenden besagen der Schubsspasti hat diese Apparatur entwickelt.",4,0,0,STRENGTH
 387,HM05,HM05,HM05s,4,0,"The user charges the target at an awesome speed. It can also be used to climb a waterfall.",4,0,0,WATERFALL
@@ -646,6 +646,7 @@
 631,NSOLARIZER,N-Solarizer,N-Solarizers,8,0,"A machine to fuse Necrozma, which needs light, and Solgaleo.",5,0,6,
 632,NLUNARIZER,N-Lunarizer,N-Lunarizers,8,0,"A machine to fuse Necrozma, which needs light, and Lunala.",5,0,6,
 633,MEGARING,Mega Ring,Mega Rings,8,0,"This ring contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve.",0,0,6,
+#-------------------------------
 634,NIKEGUTSCHEIN,Nikegutschein,Nikegutschein,8,0,"Ein Gutschein für den NikeStore.",0,0,6,
 635,AIRJORDANS,AirJordans,AirJordans,8,0,"Geile Schuhe zum schnellen Laufen.",2,0,6,
 636,KAFFEE,Kaffee,Kaffee´s,2,20,"Ein brühend heißer Kaffee, macht müde Männer munter.",1,1,0,
@@ -656,3 +657,6 @@
 641,OMNISTONE,Omnistone,Omnistones,1,6000,"Ein Stein mit unnatürlicher Aura.",1,0,7,
 642,CTHULHUSAUGE,Cthulhusauge,Cthulhusaugen,1,2000000,"Der Anblick des farbigen Kristalls lässt dich erschaudern .",0,0,0,
 643,WEEDBAGGY,Weedbaggy,Weedbaggy´s,1,200000,"Ein kleiner Beutel mit grünem Zauberkraut. Besser nicht den Pokemon geben.",0,0,0,
+644,PAPIER,Wegführung,Wegführungen,1,1,"Eine leicht durchnässte Karte. Stinkt nach Rum.",2,0,0,
+645,PAPIER2,Wegführung2,Wegführungen2,1,1,"Eine weitere leicht durchnässte Karte.",2,0,0,
+646,TOWNMAP2,Town Map2,Town Maps2,8,0,"A very convenient map that can be viewed anytime. It even shows your present location.",2,0,6,
