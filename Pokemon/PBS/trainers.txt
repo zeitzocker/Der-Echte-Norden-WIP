@@ -575,3 +575,8 @@ Pokemon = MEOWTH,23
 Pokemon = JUMPLUFF,29
 Pokemon = VILEPLUME,26
 Pokemon = WEEPINBELL,23
+#-------------------------------
+[FETTSACK,Bernd]
+LoseText = "Irgendwie bekomme ich schon wieder hunger"
+Pokemon = HARIYAMA,40
+Pokemon = WALREIN,44

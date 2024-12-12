@@ -660,3 +660,4 @@
 644,PAPIER,Wegführung,Wegführungen,1,1,"Eine leicht durchnässte Karte. Stinkt nach Rum.",2,0,0,
 645,PAPIER2,Wegführung2,Wegführungen2,1,1,"Eine weitere leicht durchnässte Karte.",2,0,0,
 646,TOWNMAP2,Town Map2,Town Maps2,8,0,"A very convenient map that can be viewed anytime. It even shows your present location.",2,0,6,
+647,JOJACOLA,Joja-Cola,Joja-Cola's,2,0,"Kann man diese Cola wirklich guten Gewissens kaufen?.",1,0,0,
