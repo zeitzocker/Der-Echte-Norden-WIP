@@ -580,3 +580,98 @@ Pokemon = WEEPINBELL,23
 LoseText = "Irgendwie bekomme ich schon wieder hunger"
 Pokemon = HARIYAMA,40
 Pokemon = WALREIN,44
+#-------------------------------
+[ELITEFOUR_Lorelei,Lorelei]
+LoseText = "Du musst noch ne Menge lernen."
+Pokemon = GYARADOS,70
+Pokemon = KINGDRA,70
+Pokemon = SWAMPERT,70
+Pokemon = MANAPHY,70
+Pokemon = SAMUROTT,70
+Pokemon = KELDEO,70
+#-------------------------------
+[ELITEFOUR_Lorelei,Lorelei,1]
+LoseText = "Du musst noch ne Menge lernen."
+Pokemon = GYARADOS,80
+Pokemon = KINGDRA,80
+Pokemon = SWAMPERT,80
+Pokemon = MANAPHY,80
+Pokemon = SAMUROTT,80
+Pokemon = KELDEO,80
+#-------------------------------
+[ELITEFOUR_Bruno,Bruno]
+LoseText = "HAHAHAHA !!! SO SCHLECHT !"
+Pokemon = CONKELDURR,70
+Pokemon = RHYDON,70
+Pokemon = HERACROSS,70
+Pokemon = EXPLOUD,70
+Pokemon = INFERNAPE,70
+Pokemon = COBALION,70
+#-------------------------------
+[ELITEFOUR_Bruno,Bruno,1]
+LoseText = "HAHAHAHA !!! SO SCHLECHT !"
+Pokemon = CONKELDURR,80
+Pokemon = RHYDON,80
+Pokemon = HERACROSS,80
+Pokemon = EXPLOUD,80
+Pokemon = INFERNAPE,80
+Pokemon = COBALION,80
+#-------------------------------
+[ELITEFOUR_Agatha,Agatha]
+LoseText = "Kein Respekt vorm Alter..."
+Pokemon = GENGAR,70
+Pokemon = ESPEON,70
+Pokemon = GARDEVOIR,70
+Pokemon = GALLADE,70
+Pokemon = MUSHARNA,70
+Pokemon = SIGILYPH,70
+#-------------------------------
+[ELITEFOUR_Agatha,Agatha,1]
+LoseText = "Kein Respekt vorm Alter..."
+Pokemon = GENGAR,80
+Pokemon = ESPEON,80
+Pokemon = GARDEVOIR,80
+Pokemon = GALLADE,80
+Pokemon = MUSHARNA,80
+Pokemon = SIGILYPH,80
+#-------------------------------
+[ELITEFOUR_Lance,Lance]
+LoseText = "Know your place bitch !"
+Pokemon = VENUSAUR,70
+Pokemon = HOUNDOOM,70
+Pokemon = SHIFTRY,70
+Pokemon = DARKRAI,70
+Pokemon = HYDREIGON,70
+Pokemon = VILEPLUME,70
+#-------------------------------
+[ELITEFOUR_Lance,Lance,1]
+LoseText = "Know your place bitch !"
+Pokemon = VENUSAUR,80
+Pokemon = HOUNDOOM,80
+Pokemon = SHIFTRY,80
+Pokemon = DARKRAI,80
+Pokemon = HYDREIGON,80
+Pokemon = VILEPLUME,80
+#-------------------------------
+[CHAMPION,Ingo]
+LoseText = "HAHAHA ICH BIN UNSTERBLICH !"
+Pokemon = MACHAMP,70
+    Item = HYPERPOTION
+Pokemon = BLASTOISE,70
+    Item = SUPERPOTION
+Pokemon = ABSOL,70
+Pokemon = DRAGONITE,75
+Pokemon = BLAZIKEN,70
+Pokemon = ELECTIVIRE,70
+
+#-------------------------------
+[CHAMPION,Ingo,1]
+LoseText = "HAHAHA ICH BIN UNSTERBLICH !"
+Pokemon = MACHAMP,80
+    Item = HYPERPOTION
+Pokemon = BLASTOISE,80
+    Item = SUPERPOTION
+Pokemon = ABSOL,80
+Pokemon = DRAGONITE,100
+Pokemon = BLAZIKEN,80
+Pokemon = ELECTIVIRE,80

@@ -476,7 +476,7 @@ Land
     RELICANTH,16,19
     RELICANTH,16,19
 #-------------------------------
-075 # Tiall Region
+075 # Geniale Grotte
 25,10,10
 Land
     RATTATA_1,11,14

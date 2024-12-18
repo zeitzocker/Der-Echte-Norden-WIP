@@ -18,8 +18,6 @@
 2,West,0,66,East,0
 # Route 8 (69) - Safari Zone (66)
 69,North,0,66,South,10
-# Ingido Plateau (35) - Route 4 (39)
-35,West,11,39,East,0
 # Cedolan City (7) - Lerucean Town (23)
 7,East,0,23,West,78
 # Route 3 (31) - Lerucean Town (23)
@@ -30,8 +28,6 @@
 47,West,0,7,East,0
 # Route 2 (21) - Cedolan City (7)
 21,South,0,7,North,21
-# Route 3 (31) - Ingido Plateau (35)
-31,West,0,35,East,10
 # Route 8 (69) - Lappet Town (2)
 69,North,12,2,South,0
 # Route 7 (47) - Battle Frontier (52)
@@ -56,3 +52,7 @@
 125,East,1,126,West,0
 # Route der Starken (152) - Lökak Süd (139)
 152,North,0,139,South,0
+# Stift (169) - Ingo Plateau (170)
+169,North,3,170,South,0
+# Stift (169) - Eingang Ingo Plateau (168)
+169,South,0,168,North,0

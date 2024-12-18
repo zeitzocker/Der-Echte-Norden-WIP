@@ -97,3 +97,4 @@
 94,LEADER_Laria_und_Klara,Gym Leader,100,Battle Gym Leader,Battle victory leader,,Female,,
 95,RIVALE2,Rivale,90,,,,Male,,
 96,CRICKET_BOSS2,Cricket Boss,100,,,,Male,,
+97,CHAMPION,Champion,100,Wii Champ,ChampionsChallengeWin,,Male,

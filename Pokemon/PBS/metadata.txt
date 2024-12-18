@@ -172,23 +172,23 @@ MapPosition = 0,15,6
 Environment = Cave
 #-------------------------------
 [035]
-# Ingido Plateau
+# ???
 MapPosition = 0,13,6
 Outdoor = true
+Environment = None
 ShowArea = true
 #-------------------------------
 [036]
-# Pokémon League
+# Liga- Arena
 MapPosition = 0,13,6
 HealingSpot = 35,17,7
 #-------------------------------
 [037]
-# Pokémon League
+# Mystische Ebene
 BattleBack = elite1
 MapPosition = 0,13,6
 #-------------------------------
 [038]
-# Hall of Fame
 MapPosition = 0,13,6
 #-------------------------------
 [039]
@@ -268,7 +268,6 @@ DarkMap = true
 Environment = Cave
 #-------------------------------
 [051]
-# Dungeon
 BattleBack = cave2
 Bicycle = true
 Dungeon = true
@@ -386,7 +385,6 @@ Outdoor = true
 ShowArea = true
 #-------------------------------
 [073]
-# Faraday Island
 BattleBack = field
 MapPosition = 0,22,16
 Outdoor = true
@@ -479,4 +477,9 @@ Bicycle = true
 Bicycle = true
 #-------------------------------
 [153]
-# WIP
+# Eisige Tiefen
+#-------------------------------
+[170]
+# Ingo Plateau
+Bicycle = true
+BicycleAlways = false
