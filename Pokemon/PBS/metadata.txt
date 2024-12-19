@@ -189,6 +189,7 @@ BattleBack = elite1
 MapPosition = 0,13,6
 #-------------------------------
 [038]
+# Eekholt
 MapPosition = 0,13,6
 #-------------------------------
 [039]
@@ -268,6 +269,7 @@ DarkMap = true
 Environment = Cave
 #-------------------------------
 [051]
+# Musuh
 BattleBack = cave2
 Bicycle = true
 Dungeon = true

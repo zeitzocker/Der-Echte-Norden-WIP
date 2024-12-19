@@ -52,6 +52,10 @@
 125,East,1,126,West,0
 # Route der Starken (152) - Lökak Süd (139)
 152,North,0,139,South,0
+# Ingo Plateau (170) - Eekholt (38)
+170,West,0,38,East,0
+# Eingang Ingo Plateau (168) - Eekholt (38)
+168,North,0,38,South,37
 # Stift (169) - Ingo Plateau (170)
 169,North,3,170,South,0
 # Stift (169) - Eingang Ingo Plateau (168)

@@ -358,7 +358,7 @@ Cave
     BURMY,14,16
     BURMY,14,16
 #-------------------------------
-051 # Dungeon
+051 # Musuh
 25,10,10
 Cave
     PICHU,1
