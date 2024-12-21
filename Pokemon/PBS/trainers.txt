@@ -675,3 +675,23 @@ Pokemon = ABSOL,80
 Pokemon = DRAGONITE,100
 Pokemon = BLAZIKEN,80
 Pokemon = ELECTIVIRE,80
+#-------------------------------
+[BUCHHALTER, Herr Hain]
+LoseText = "Ich bin mir nicht sicher ob das EStG konform ist ."
+Pokemon = BOUFFALANT,50
+Pokemon = MEOWTH,55
+    Name = Zahltag
+    Gender = male
+    Shiny = yes
+    Moves = PAYDAY
+    Ability = 0
+    Item = SITRUSBERRY
+    IV = 20
+    Ball = 19
+Pokemon = SLAKING,50
+#-------------------------------
+[BUCHHALTER, Herr Müller]
+LoseText = "Ich bin mir nicht sicher ob das EStG konform ist ."
+Pokemon = KANGASKHAN,50
+Pokemon = TAUROS,50
+Pokemon = GIRAFARIG,50

@@ -98,3 +98,4 @@
 95,RIVALE2,Rivale,90,,,,Male,,
 96,CRICKET_BOSS2,Cricket Boss,100,,,,Male,,
 97,CHAMPION,Champion,100,Wii Champ,ChampionsChallengeWin,,Male,
+98,BUCHHALTER,Buchhalter,70,,,,Male,,
