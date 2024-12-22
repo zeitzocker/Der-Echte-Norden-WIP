@@ -797,3 +797,60 @@ Pokemon = KYUREM,60
     Gender = male
 Pokemon = COFAGRIGUS,60
     Gender = male
+#-------------------------------
+[KÄFERSPACKO,Bennett]
+LoseText = "Ich hab mal nen Regenwurm gegessen!"
+Pokemon = ACCELGOR,42
+Pokemon = GALVANTULA,39
+Pokemon = ARMALDO,41
+#-------------------------------
+[KÄFERSPACKO,Murki]
+LoseText = "Wirklich schlecht gelaufen!"
+Pokemon = FORRETRESS,40
+Pokemon = ILLUMISE,42
+Pokemon = YANMEGA,43
+#-------------------------------
+[PICNICKER,Mara]
+LoseText = "Manno."
+Pokemon = VENUSAUR,46
+Pokemon = MAWILE,44
+#-------------------------------
+[PICNICKER,Caramel]
+LoseText = "Manno."
+Pokemon = AZUMARILL,38
+Pokemon = TOGETIC,41
+Pokemon = GRANBULL,39
+#-------------------------------
+[WALDEXPERTE,Gulli]
+LoseText = "Du magst gewonnen haben doch am Ende siegt immer die Natur"
+Pokemon = ABOMASNOW,50
+#-------------------------------
+[WALDEXPERTE,Gerd]
+LoseText = "Du magst gewonnen haben doch am Ende siegt immer die Natur"
+Pokemon = CARNIVINE,40
+Pokemon = WHIMSICOTT,40
+Pokemon = MARACTUS,40
+#-------------------------------
+[FETTSACK,Rolf]
+LoseText = "Argh."
+Pokemon = MAGMORTAR,47
+Pokemon = CAMERUPT,43
+Pokemon = EMBOAR,44
+#-------------------------------
+[FETTSACK,Fabian]
+LoseText = "Argh."
+Pokemon = WAILORD,41
+Pokemon = SEISMITOAD,42
+#-------------------------------
+[ECHT_SCHLAUER_TYP,Rene]
+LoseText = "Das verstehe ich jetzt nicht."
+Pokemon = HYPNO,35
+Pokemon = BRONZONG,36
+Pokemon = REUNICLUS,39
+#-------------------------------
+[ECHT_SCHLAUER_TYP,Andreas]
+LoseText = "Das verstehe ich jetzt nicht."
+Pokemon = LUNATONE,45
+Pokemon = SOLROCK,46
+Pokemon = CLAYDOL,48
+

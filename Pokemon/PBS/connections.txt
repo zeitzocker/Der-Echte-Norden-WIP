@@ -56,7 +56,15 @@
 170,West,0,38,East,0
 # Eingang Ingo Plateau (168) - Eekholt (38)
 168,North,0,38,South,37
+# Letzte Route (179) - Ingo Plateau (170)
+179,West,0,170,East,0
 # Stift (169) - Ingo Plateau (170)
 169,North,3,170,South,0
+# Musuh (174) - Letzte Route (179)
+174,West,0,179,East,0
+# Stift (169) - Letzte Route (179)
+169,North,38,179,South,0
 # Stift (169) - Eingang Ingo Plateau (168)
 169,South,0,168,North,0
+# Stift (169) - Musuh (174)
+169,North,98,174,South,0

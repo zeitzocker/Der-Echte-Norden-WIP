@@ -234,6 +234,51 @@ Cave
     SMOOCHUM,11,14
     SMOOCHUM,11,14
 #-------------------------------
+035 # ???
+25,10,10
+Cave
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+#-------------------------------
+038 # Eekholt
+25,10,10
+Land
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+OldRod
+    BULBASAUR,5
+    BULBASAUR,5
+GoodRod
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+SuperRod
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+#-------------------------------
 039 # Route 4
 25,10,10
 Land
@@ -358,7 +403,7 @@ Cave
     BURMY,14,16
     BURMY,14,16
 #-------------------------------
-051 # Musuh
+051 # MAP051
 25,10,10
 Cave
     PICHU,1
@@ -731,3 +776,141 @@ Land
     VENIPEDE,8,17
     KECLEON,11,18
     TIMBURR,6,8
+#-------------------------------
+142 # NSI 1.Floor (2)
+25,10,10
+Land
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+#-------------------------------
+149 # Geheimhöhle im NSI
+25,10,10
+Cave
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+#-------------------------------
+152 # Route der Starken
+25,10,10
+Land
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+#-------------------------------
+155 # Untere Ebene
+25,15,10
+Cave
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+#-------------------------------
+156 # Flussebene
+25,15,10
+Cave
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+OldRod
+    BULBASAUR,5
+    BULBASAUR,5
+GoodRod
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+SuperRod
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+#-------------------------------
+157 # Höhlensee
+25,20,10
+Cave
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+OldRod
+    BULBASAUR,5
+    BULBASAUR,5
+GoodRod
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+SuperRod
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+#-------------------------------
+179 # Letzte Route
+25,10,10
+Land
+    SHELMET,10,17
+    AIPOM,15,25
+    SWABLU,13,22
+    FARFETCHD,11,26
+    EMOLGA,5,14
+    HAPPINY,5,17
+    DRILBUR,17,27
+    GLIGAR,5,25
+    SWINUB,9,19
+    NUZLEAF,15,25
+    PANSAGE,6,15
+    NUMEL,6,15

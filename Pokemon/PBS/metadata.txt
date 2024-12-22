@@ -187,10 +187,12 @@ HealingSpot = 35,17,7
 # Mystische Ebene
 BattleBack = elite1
 MapPosition = 0,13,6
+Outdoor = true
 #-------------------------------
 [038]
 # Eekholt
 MapPosition = 0,13,6
+Outdoor = true
 #-------------------------------
 [039]
 # Route 4
@@ -218,6 +220,7 @@ ShowArea = true
 [043]
 # Grubsnelf
 Bicycle = true
+Outdoor = true
 Environment = None
 #-------------------------------
 [044]
@@ -269,7 +272,7 @@ DarkMap = true
 Environment = Cave
 #-------------------------------
 [051]
-# Musuh
+# MAP051
 BattleBack = cave2
 Bicycle = true
 Dungeon = true
@@ -387,6 +390,7 @@ Outdoor = true
 ShowArea = true
 #-------------------------------
 [073]
+# MAP073
 BattleBack = field
 MapPosition = 0,22,16
 Outdoor = true
@@ -406,18 +410,21 @@ Outdoor = true
 [079]
 # Schneckenwald
 Bicycle = true
+Outdoor = true
 #-------------------------------
 [080]
 # Frotron
 Bicycle = true
+Outdoor = true
 #-------------------------------
 [086]
 # Wachposten zum Gebirgspfad
-Bicycle = true
+Bicycle = false
 #-------------------------------
 [087]
 # Gebirgspass
 Bicycle = true
+Outdoor = true
 #-------------------------------
 [088]
 # Mysteriöse Pokehöhle
@@ -450,38 +457,97 @@ Bicycle = true
 [096]
 # Berrypfad
 Bicycle = true
+Outdoor = true
 #-------------------------------
 [097]
 # Kiw-Nord
 Bicycle = true
+Outdoor = true
 #-------------------------------
 [104]
 # Kiw-Süd
 Bicycle = true
+Outdoor = true
 #-------------------------------
 [118]
 # Radroute
 Bicycle = true
+Outdoor = true
 #-------------------------------
 [119]
 # Naturschutzgebiet
+Bicycle = true
+Outdoor = true
+#-------------------------------
+[120]
+# Natur-Pfad
+Bicycle = true
+Outdoor = true
+#-------------------------------
+[122]
+# Natur-Quelle
+Bicycle = true
+Outdoor = true
 #-------------------------------
 [123]
 # Kleines Waldstück
 Bicycle = true
+Outdoor = true
 #-------------------------------
 [125]
 # Pfad nach Lökak
 Bicycle = true
+Outdoor = true
+#-------------------------------
+[126]
+# Lökak
+Bicycle = true
+Outdoor = true
+#-------------------------------
+[139]
+# Lökak Süd
+Bicycle = true
+Outdoor = true
 #-------------------------------
 [145]
 # NSI 2.Floor
+Bicycle = false
+#-------------------------------
+[152]
+# Route der Starken
 Bicycle = true
+Outdoor = true
 #-------------------------------
 [153]
 # Eisige Tiefen
 #-------------------------------
+[160]
+# Edieh
+Bicycle = true 
+Outdoor = true
+#-------------------------------
+[168]
+# Eingang Ingo Plateau
+Bicycle = true
+Outdoor = true
+#-------------------------------
+[169]
+# Stift
+Bicycle = true
+Outdoor = true
+#-------------------------------
 [170]
 # Ingo Plateau
 Bicycle = true
+Outdoor = true
 BicycleAlways = false
+#-------------------------------
+[174]
+# Musuh
+Bicycle = true
+Outdoor = true
+#-------------------------------
+[179]
+# Letzte Route
+Bicycle = true
+Outdoor = true
