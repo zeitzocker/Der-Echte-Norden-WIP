@@ -163,6 +163,7 @@ ShowArea = true
 [032]
 # -Leik-
 Bicycle = true
+Outdoor = true
 #-------------------------------
 [034]
 # Ice Cave
@@ -522,8 +523,8 @@ Outdoor = true
 # Eisige Tiefen
 #-------------------------------
 [160]
-# Edieh
-Bicycle = true 
+# Edieh 
+Bicycle = true
 Outdoor = true
 #-------------------------------
 [168]
