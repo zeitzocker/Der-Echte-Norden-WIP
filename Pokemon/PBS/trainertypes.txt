@@ -99,3 +99,4 @@
 96,CRICKET_BOSS2,Cricket Boss,100,,,,Male,,
 97,CHAMPION,Champion,100,Wii Champ,ChampionsChallengeWin,,Male,
 98,BUCHHALTER,Buchhalter,70,,,,Male,,
+99,ARENALEITER_LINDNER,ARENALEITER,100,Battle Gym Leader,Battle victory leader,,Male,,

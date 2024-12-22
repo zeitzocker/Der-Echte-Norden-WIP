@@ -695,3 +695,105 @@ LoseText = "Ich bin mir nicht sicher ob das EStG konform ist ."
 Pokemon = KANGASKHAN,50
 Pokemon = TAUROS,50
 Pokemon = GIRAFARIG,50
+#-------------------------------
+[BUCHHALTER, Herr Sievers]
+LoseText = "Ich bin mir nicht sicher ob das EStG konform ist ."
+Pokemon = RUFFLET,50
+Pokemon = BRAVIARY,50
+Pokemon = UNFEZANT,50
+#-------------------------------
+[BUCHHALTER, Herr Meier]
+LoseText = "Ich bin mir nicht sicher ob das EStG konform ist ."
+Pokemon = LINOONE,50
+Pokemon = FARFETCHD,50
+Pokemon = STARAPTOR,50
+#-------------------------------
+[BUCHHALTER, Herr Clemens]
+LoseText = "Ich bin mir nicht sicher ob das EStG konform ist ."
+Pokemon = CHANSEY,50
+Pokemon = WIGGLYTUFF,50
+Pokemon = AUDINO,50
+#-------------------------------
+[BUCHHALTER, Herr Hoffmann]
+LoseText = "Ich bin mir nicht sicher ob das EStG konform ist ."
+Pokemon = SPINDA,50
+Pokemon = GRUMPIG,50
+Pokemon = DELCATTY,50
+#-------------------------------
+[BUCHHALTER, Herr Rainer]
+LoseText = "Ich bin mir nicht sicher ob das EStG konform ist ."
+Pokemon = LOPUNNY,50
+Pokemon = PURUGLY,50
+Pokemon = CINCCINO,50
+#-------------------------------
+[BUCHHALTER, Herr Eckert]
+LoseText = "Ich bin mir nicht sicher ob das EStG konform ist ."
+Pokemon = MIGHTYENA,50
+Pokemon = MURKROW,50
+Pokemon = MANDIBUZZ,50
+#-------------------------------
+[BUCHHALTER, Herr Schultz]
+LoseText = "Ich bin mir nicht sicher ob das EStG konform ist ."
+Pokemon = DRAPION,50
+Pokemon = AMOONGUSS,50
+Pokemon = SWALOT,50
+#-------------------------------
+[BUCHHALTER, Herr Schubert]
+LoseText = "Ich bin mir nicht sicher ob das EStG konform ist ."
+Pokemon = SCRAFTY,50
+Pokemon = WEAVILE,50
+Pokemon = BISHARP,50
+#-------------------------------
+[BUCHHALTER, Herr Pingel]
+LoseText = "Ich bin mir nicht sicher ob das EStG konform ist ."
+Pokemon = SUDOWOODO,50
+Pokemon = POLITOED,50
+Pokemon = LUDICOLO,50
+#-------------------------------
+[BUCHHALTER, Herr Rosenfeldt]
+LoseText = "Ich bin mir nicht sicher ob das EStG konform ist ."
+Pokemon = SHEDINJA,50
+Pokemon = MEDICHAM,50
+Pokemon = ZANGOOSE,50
+#-------------------------------
+[BUCHHALTER, Herr Binke]
+LoseText = "Ich bin mir nicht sicher ob das EStG konform ist ."
+Pokemon = KECLEON,50
+Pokemon = BANETTE,50
+Pokemon = KRICKETUNE,50
+#-------------------------------
+[BUCHHALTER, Herr Ahrens]
+LoseText = "Ich bin mir nicht sicher ob das EStG konform ist ."
+Pokemon = LUXRAY,50
+Pokemon = AMBIPOM,50
+Pokemon = TANGROWTH,50
+#-------------------------------
+[BUCHHALTER, Herr Lorenz]
+LoseText = "Ich bin mir nicht sicher ob das EStG konform ist ."
+Pokemon = VANILLUXE,50
+Pokemon = DURANT,50
+Pokemon = BIBAREL,50
+#-------------------------------
+[ARENALEITER_LINDNER,Lindner]
+Items = FULLRESTORE,FULLRESTORE,HYPERPOTION
+LoseText = "Ich werde trotzdem im Amt bleiben !"
+Pokemon = ALAKAZAM,60
+    Gender = male
+    Item = SITRUSBERRY
+Pokemon = MAMOSWINE,60
+    Name = Twin Tusk
+    Gender = male
+    Shiny = yes
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    Ability = 0
+    Item = SITRUSBERRY
+    IV = 20
+    Ball = 19
+Pokemon = XATU,60
+    Gender = male
+Pokemon = METAGROSS,60
+    Gender = male
+Pokemon = KYUREM,60
+    Gender = male
+Pokemon = COFAGRIGUS,60
+    Gender = male
