@@ -853,4 +853,9 @@ LoseText = "Das verstehe ich jetzt nicht."
 Pokemon = LUNATONE,45
 Pokemon = SOLROCK,46
 Pokemon = CLAYDOL,48
-
+#-------------------------------
+[CAMPER,Fredo]
+LoseText = "Aktig !"
+Pokemon = SNORLAX,43
+Pokemon = SNORLAX,43
+Pokemon = SNORLAX,43
