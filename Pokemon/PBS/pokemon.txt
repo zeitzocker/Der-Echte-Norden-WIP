@@ -2731,7 +2731,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = -2
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = MAGNEZONE,Location,49,MAGNEZONE,Location,50,MAGNEZONE,Location,51
+Evolutions = MAGNEZONE,Item,OMNISTONE
 #-------------------------------
 [83]
 Name = Farfetch'd
@@ -3169,7 +3169,7 @@ BattlerEnemyX = -2
 BattlerEnemyY = 5
 BattlerShadowX = 0
 BattlerShadowSize = 3
-Evolutions = STEELIX,TradeItem,METALCOAT
+Evolutions = STEELIX,Item,OMNISTONE
 #-------------------------------
 [96]
 Name = Drowzee
@@ -3795,7 +3795,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 22
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = TANGROWTH,HasMove,ANCIENTPOWER
+Evolutions = TANGROWTH,Item,OMNISTONE
 #-------------------------------
 [115]
 Name = Kangaskhan
@@ -4099,7 +4099,7 @@ BattlerEnemyX = -9
 BattlerEnemyY = 9
 BattlerShadowX = 0
 BattlerShadowSize = 3
-Evolutions = SCIZOR,TradeItem,METALCOAT
+Evolutions = SCIZOR,Item,OMNISTONE
 #-------------------------------
 [124]
 Name = Jynx
@@ -4165,7 +4165,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 13
 BattlerShadowX = 0
 BattlerShadowSize = 3
-Evolutions = ELECTIVIRE,TradeItem,ELECTIRIZER
+Evolutions = ELECTIVIRE,Item,OMNISTONE
 #-------------------------------
 [126]
 Name = Magmar
@@ -4198,7 +4198,7 @@ BattlerEnemyX = -7
 BattlerEnemyY = 11
 BattlerShadowX = 0
 BattlerShadowSize = 3
-Evolutions = MAGMORTAR,TradeItem,MAGMARIZER
+Evolutions = MAGMORTAR,Item,OMNISTONE
 #-------------------------------
 [127]
 Name = Pinsir
@@ -4560,7 +4560,7 @@ BattlerEnemyX = -1
 BattlerEnemyY = 14
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = PORYGON2,TradeItem,UPGRADE
+Evolutions = PORYGON2,Item,OMNISTONE
 #-------------------------------
 [138]
 Name = Omanyte
@@ -6319,7 +6319,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 15
 BattlerShadowX = 0
 BattlerShadowSize = 1
-Evolutions = AMBIPOM,HasMove,DOUBLEHIT
+Evolutions = AMBIPOM,Item,OMNISTONE
 #-------------------------------
 [191]
 Name = Sunkern
@@ -6419,7 +6419,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = -1
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = YANMEGA,HasMove,ANCIENTPOWER
+Evolutions = YANMEGA,Item,OMNISTONE
 #-------------------------------
 [194]
 Name = Wooper
